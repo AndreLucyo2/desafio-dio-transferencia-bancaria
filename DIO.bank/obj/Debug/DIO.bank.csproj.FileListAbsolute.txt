@@ -1,0 +1,11 @@
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\bin\Debug\DIO.bank.exe.config
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\bin\Debug\DIO.bank.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\bin\Debug\DIO.bank.pdb
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.csprojAssemblyReference.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.csproj.CoreCompileInputs.cache
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.exe
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.pdb
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\bin\Debug\DIO.bank.exe.manifest
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\bin\Debug\DIO.bank.application
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.exe.manifest
+H:\Noot_DELL\Dev_Software\WorkSpaceC#\BootCampNET\ProjetoLab01\DIO.bank\DIO.bank\obj\Debug\DIO.bank.application
